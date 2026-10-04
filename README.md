@@ -14,13 +14,16 @@ Je travaille notamment sur des besoins de **réservation, paiement, e-commerce, 
 
 ## Quelques projets
 
-- **Atelier d'Héloïse** : plateforme de présentation, boutique, réservation, paiement et gestion métier.
+- **Atelier d'Héloïse** : plateforme de présentation, boutique, réservation, paiement et gestion métier. [Voir le cas client](https://alioune-seck.dev/etudes-de-cas/atelier-dheloise)
 - **StockScan** : outil de gestion d'inventaires, stock, exports et opérations multi-services.
 - **SAMASS** : site de service avec réservation en ligne. [Voir le code](https://github.com/Alioune4002/samass-clean)
 
-Stack principale : React, Next.js, Django, Python, PostgreSQL et API REST.\n\nCode public sélectionné : [SAMASS](https://github.com/Alioune4002/samass-clean) · [LuxHotel Events](https://github.com/Alioune4002/luxhotel-events) · [DLC Manager](https://github.com/Alioune4002/dlc-manager-frontend)
+## Stack principale
 
-Portfolio : https://alioune-seck.dev  
-Malt : https://www.malt.fr/profile/aliouneseck2
+React, Next.js, Django, Python, PostgreSQL et API REST.
+
+Code public sélectionné : [SAMASS](https://github.com/Alioune4002/samass-clean) · [LuxHotel Events](https://github.com/Alioune4002/luxhotel-events) · [DLC Manager](https://github.com/Alioune4002/dlc-manager-frontend)
+
+[Portfolio](https://alioune-seck.dev) · [Malt](https://www.malt.fr/profile/aliouneseck2)
 
 Je suis disponible pour des missions freelance en France et à distance.
